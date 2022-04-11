@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 /**
  * @OA\Info(
- *    title="Your super  ApplicationAPI",
+ *    title="Kledo Backend Assesment ApplicationAPI",
  *    version="1.0.0",
  * )
  */
