@@ -1,6 +1,6 @@
 # Kledo Backend Assesment Test
 
-aplikasi dengan konsep REST-API pada sisi backend untuk memenuhi kebutuhan sistem perhitungan lembur.
+Aplikasi dengan konsep REST-API pada sisi backend untuk memenuhi kebutuhan sistem perhitungan lembur.
 Ada 2 metode perhitungan lembur yang digunakan.
 * Salary / 173
 * Fixed
