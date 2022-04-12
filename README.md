@@ -4,6 +4,7 @@ aplikasi dengan konsep REST-API pada sisi backend untuk memenuhi kebutuhan siste
 Ada 2 metode perhitungan lembur yang digunakan.
 * Salary / 173
 * Fixed
+
 Jika yang digunakan adalah metode pertama, maka semua upah lembur dari pegawai yang ada akan dihitung menggunakan metode tersebut. Begitu juga jika yang dipilih adalah metode kedua.
 Khusus untuk pegawai dalam masa percobaan, upah lembur mulai dihitung saat durasi lembur lebih dari 1 jam. Saat lebih dari 1 jam, yang dihitung adalah durasi setelah 1 jam tersebut. Namun tidak akan dihitung jika durasi setelah 1 jam belum mencapai 1 jam, aturan ini berlaku kelipatan. Durasi lembur untuk pegawai dalam masa percobaan ini dihitung pada setiap lembur yang dilakukan, bukan dari akumulasi lembur per-bulan.
 Contoh hasil perhitungan lembur pegawai dalam masa percobaan seperti berikut.
